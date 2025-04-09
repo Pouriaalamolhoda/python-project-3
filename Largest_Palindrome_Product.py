@@ -18,8 +18,3 @@ for k in pali :
 
         
 print('result = {}'.format(max_val))
-
-    
-# problem : find i * j for 906609
-# problem2 : use dictionary in this
-# not enough comments
